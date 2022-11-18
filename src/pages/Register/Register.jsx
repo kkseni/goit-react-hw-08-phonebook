@@ -11,7 +11,7 @@ const Register = () => {
   return (
     <>
       <ContainerBody>
-        <Title>Register</Title>
+        <Title>Check in</Title>
         {token ? <Navigate to="/userMenu" replace /> : <RegisterForm />}
       </ContainerBody>
     </>

@@ -19,7 +19,7 @@ const Header = () => {
           ) : (
             <>
               <NavLinkStyled to="/login">Login</NavLinkStyled>
-              <NavLinkStyled to="/register">Register</NavLinkStyled>
+              <NavLinkStyled to="/register">Chek in</NavLinkStyled>
             </>
           )}
         </HeaderWrapper>
