@@ -13,7 +13,6 @@ export const Form = styled.form`
   padding: 30px;
   text-align: center;
   width: 350px;
-  background-color: aliceblue;
 `;
 
 export const Label = styled.label`
