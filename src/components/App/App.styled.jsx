@@ -10,10 +10,8 @@ export const ContainerBody = styled.div`
 export const Title = styled.h1`
   padding-top: 15px;
   margin: 0;
-  color: #fff;
 `;
 
 export const TitleSecond = styled.h2`
   margin: 0;
-  color: #fff;
 `;
